@@ -1,0 +1,18 @@
+input {
+	margin: 10px;
+	height: 25px;
+	outline: none;
+}
+button {
+	width: 177px;
+	margin: 10px;
+}
+.d-1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 900px;
+	height: 600px;
+	border: 1px solid;
+	margin: 20px 0 0 200px;
+}
